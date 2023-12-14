@@ -12,7 +12,7 @@ public class Snow {
 	public static void main(String[] args) {
 		Snow s = new Snow();
 		s.empName();
-		s.empAdd();
+
 	}
 
 	
